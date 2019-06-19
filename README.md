@@ -6,4 +6,5 @@
 # 混乱升级 远程先create file
 # 就算各种error 先git status看一下　正常步骤是git add .   git commit -m"　"  git push origin master
 #不知道怎么回事切换到英文状态编写ｒｅａｄｍｅ．ｍｄ也是输入的中文字符
+无法破解　完了
 
