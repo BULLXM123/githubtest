@@ -4,3 +4,7 @@
 # 嘿嘿 我再来制造混乱
 # 混乱第二次 嘿嘿
 # 混乱升级 远程先create file
+# 就算各种error 先git status看一下
+
+
+add　
